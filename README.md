@@ -1,1 +1,1 @@
-# Kaggle-project-code
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hajarrr1234/Kaggle-project-code/blob/main/home-credit-2024-starter-notebook.ipynb)
